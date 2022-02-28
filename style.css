@@ -219,13 +219,19 @@ span {
   }
 
   .header {
-    padding: 20px 0;
+    padding: 20px 10px;
     width: 100%;
     text-align: center;
   }
 
   .greeting {
-    font-size: 18px;
+    font-size: 15px;
+    
+  }
+  
+  .subtitle {
+    font-size: 15px;
+    
   }
 
   .banner-text {
