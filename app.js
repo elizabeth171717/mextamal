@@ -4,7 +4,7 @@ const menu = [
       title: "Banana Leaf Tamales",
       category: "",
       price: 65.99,
-      img: "bananal.jpg",
+      img: "2.jpg",
       desc: `Sell by Dozen, choice of red or green sauce, and choice of chicken or pork.`,
     },
     {
