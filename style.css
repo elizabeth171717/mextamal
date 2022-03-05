@@ -202,6 +202,23 @@ span {
   margin-bottom: 30px;
 }
 
+/*FOOTER STARTS*/
+
+footer {
+  background: var(--clr-black);
+  padding: 5rem 1rem;
+  color: var(--clr-white);
+  text-align: center;
+}
+
+footer p {
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
+  margin-bottom: 0;
+}
+
+/*FOOTER ENDS*/
+
 @media (max-width: 500px) {
   .main-container {
     width: 100%;
